@@ -1,0 +1,19 @@
+1. What is Python? What are the ways to install python in your python in your PC?
+
+Python is an general purpose high level interpreted programming language and it is dynamically typed programming language.
+Ways to install python:
+* We can download it from www.python.org
+* we can use anaconda navigator
+* we can use pycharm or spyder
+
+
+2.what are Code environments? types?
+
+Code environment is a place where we can write,compile and execute the code.
+Types:
+* Text editor
+(Ex:visual studio code and Atom)
+* Full IDE's
+(EX: Pycharm and Spyder)
+* NoteBook environment
+(Ex: jupyter Notebook, google colab)
